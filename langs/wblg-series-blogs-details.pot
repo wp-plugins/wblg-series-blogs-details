@@ -1,0 +1,194 @@
+# This file is distributed under the same license as the WBLG series Blogs Details package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wblg-series-blogs-details\n"
+"POT-Creation-Date: 2013-01-17 21:18:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wblg-series-blogs-details.php:70
+msgid "%s deactived"
+msgstr ""
+
+#: wblg-series-blogs-details.php:69
+msgid "(required"
+msgstr ""
+
+#: wblg-series-blogs-details.php:54
+msgid "Activate"
+msgstr ""
+
+#: wblg-series-blogs-details.php:54
+msgid "Activate this plugin"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:270
+#: wblg-series-blogs-details-admin.php:248
+msgid "Add New Category"
+msgstr ""
+
+#: wblg-series-blogs-details.php:118
+msgid "Address"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:241
+msgid "Address Book"
+msgstr ""
+
+#: wblg-series-blogs-details.php:117
+msgid "Address Name"
+msgstr ""
+
+#: wblg-series-blogs-details.php:124
+msgid "Cellphone"
+msgstr ""
+
+#: wblg-series-blogs-details.php:120
+msgid "City"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:192
+#: wblg-series-blogs-details-admin.php:155
+#: wblg-series-blogs-details-admin.php:98
+msgid "Click to toggle"
+msgstr ""
+
+#: wblg-series-blogs-details.php:189
+msgid "Contact details"
+msgstr ""
+
+#: wblg-series-blogs-details.php:121
+msgid "Country"
+msgstr ""
+
+#: wblg-series-blogs-details.php:57
+msgid "Details"
+msgstr ""
+
+#: wblg-series-blogs-details.php:188
+msgid "Display the contact details of each blog saved in Wblg Series Blogs Details Settings"
+msgstr ""
+
+#: wblg-series-blogs-details.php:125
+msgid "Email"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:211
+msgid "Filter on blogs names"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:247
+#: wblg-series-blogs-details-admin.php:269
+msgid "If the desired category doesn’t exist, please create it."
+msgstr ""
+
+#: wblg-series-blogs-details.php:57
+msgid "More information about %s"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:199
+msgid "Not set"
+msgstr ""
+
+#: wblg-series-blogs-details.php:122
+msgid "Phone"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:263
+msgid "Photo Album"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:223
+msgid "Prefix and Suffix can be set with"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:213
+msgid "Prefix: "
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:137
+#: wblg-series-blogs-details-admin.php:176
+#: wblg-series-blogs-details-admin.php:280
+msgid "Save"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:266
+#: wblg-series-blogs-details-admin.php:244
+msgid "Select"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:99
+msgid "Set new options for this blog"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:156
+msgid "Set the creation date for this blog"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:193
+msgid "Set the parent category of some major multisite extensions for this blog"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:93
+msgid "Settings saved."
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:218
+msgid "Suffix: "
+msgstr ""
+
+#: wblg-series-blogs-details.php:123
+msgid "Telecopy"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:87
+#: wblg-series-blogs-details-admin.php:68
+#: wblg-series-blogs-details-admin.php:55
+msgid "The primary site you chose does not exist."
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:151
+msgid "To manage other parameters go to: "
+msgstr ""
+
+#: wblg-series-blogs-details.php:218
+msgid "Values to hidden"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:163
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: wblg-series-blogs-details.php:88
+msgid "You do not have sufficient permissions to deactivate plugins for this site."
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:34
+msgid "You do not have sufficient permissions to manage plugins for this site."
+msgstr ""
+
+#: wblg-series-blogs-details.php:119
+msgid "Zipcode"
+msgstr ""
+
+#: wblg-series-blogs-details.php:53
+msgid "activate first %s: "
+msgstr ""
+
+#: wblg-series-blogs-details.php:56
+msgid "download and activate first %s: "
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:109
+msgid "suggestion"
+msgstr ""
+
+#: wblg-series-blogs-details-admin.php:308
+msgid "suggestion, please save"
+msgstr ""
+
