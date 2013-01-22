@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WBLG Series Blogs Details 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-14 21:54+0100\n"
+"PO-Revision-Date: 2012-11-14 21:54+0100\n"
+"Last-Translator: Alain Bariel <lancelot@la-dame-du-lac.com>\n"
+"Language-Team: Alain Bariel <lancelot@la-dame-du-lac.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-"
+"content/plugins/wblg-series-blogs-details\n"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:34
+msgid "You do not have sufficient permissions to manage plugins for this site."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:55
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:68
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:87
+msgid "The primary site you chose does not exist."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:93
+msgid "Settings saved."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:98
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:150
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:183
+msgid "Click to toggle"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:99
+msgid "Set new options for this blog"
+msgstr "Régler de nouvelles options pour ce blog"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:109
+msgid "suggestion"
+msgstr "suggestion"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:137
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:171
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:271
+msgid "Save"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:147
+msgid "To manage other parameters go to: "
+msgstr "Pour gérer d’autres paramètres aller à : "
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:151
+msgid "Set the creation date for this blog"
+msgstr "Régler la date de création pour ce blog"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:184
+msgid ""
+"Set the parent category of some major multisite extensions for this blog"
+msgstr ""
+"Réglez la catégorie parente de quelques extensions multi-site majeures pour "
+"ce blog"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:190
+msgid "Not set"
+msgstr "Non défini"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:202
+msgid "Filter on blogs names"
+msgstr "Filtre sur les noms des blogs"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:204
+msgid "Prefix: "
+msgstr "Préfixe : "
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:209
+msgid "Suffix: "
+msgstr "Suffixe : "
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:214
+msgid "Prefix and Suffix can be set with"
+msgstr "Préfixe et Suffixe peuvent être définit avec"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:232
+msgid "Address Book"
+msgstr "Carnet d'adresses"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:235
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:257
+msgid "Select"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:238
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:260
+msgid "If the desired category doesn’t exist, please create it."
+msgstr "Si la catégorie souhaitée n'existe pas, veuillez la créer."
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:239
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:261
+msgid "Add New Category"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:254
+msgid "Photo Album"
+msgstr "Album Photo"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details-admin.php:299
+msgid "suggestion, please save"
+msgstr "suggestion, veuillez enregistrer"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:38
+msgid "activate first: "
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:39
+msgid "Activate"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:42
+msgid "download and activate first: "
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:43
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:43
+msgid "Details"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:55
+msgid "needed"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:73
+msgid ""
+"You do not have sufficient permissions to deactivate plugins for this site."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:102
+msgid "Address Name"
+msgstr "Nom de l’adresse"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:103
+msgid "Address"
+msgstr "Adresse"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:104
+msgid "Zipcode"
+msgstr "Code postal"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:105
+msgid "City"
+msgstr "Ville"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:106
+msgid "Country"
+msgstr "Pays"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:107
+msgid "Phone"
+msgstr "Téléphone"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:108
+msgid "Telecopy"
+msgstr "Fax"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:109
+msgid "Cellphone"
+msgstr "Téléphone mobile"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:110
+msgid "Email"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:173
+msgid ""
+"Display the contact details of each blog saved in Wblg Series Blogs Details "
+"Settings"
+msgstr ""
+"Affiche les coordonnées de chaque blog enregistrées dans Wblg Series Blogs "
+"Details Settings"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:174
+msgid "Contact details"
+msgstr "Coordonnées"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-blogs-details/wblg-series-blogs-details.php:203
+msgid "Values to hidden"
+msgstr "Les valeurs à masquer"
+
+#~ msgid "WBLG series Core Admin plugin needed."
+#~ msgstr "L’extension WBLG series Core Admin est nécessaire."
+
+#~ msgid "Don’t forget, save your database."
+#~ msgstr "N’oubliez pas de sauvegarder votre base de données."
+
+#~ msgid "Choose a blog as master"
+#~ msgstr "Choisissez un blog maître"
+
+#~ msgid "Exclude"
+#~ msgstr "Exclure"
+
+#~ msgid ""
+#~ "Strikethrough values are excluded by default. The colored values are not "
+#~ "displayed."
+#~ msgstr ""
+#~ "Les valeurs barrées sont exclues par défaut. Les valeurs colorées ne sont "
+#~ "pas affichées."
+
+#~ msgid "Only commons options values between both blogs are displayed."
+#~ msgstr "Seule les options communes aux deux blogs sont affichées."
+
+#~ msgid "Options with the same value in the master blog are not displayed."
+#~ msgstr ""
+#~ "Les options avec la même valeur dans le blog maître ne sont pas affichées."
+
+#~ msgid "Option’s Names"
+#~ msgstr "Nom des options"
+
+#~ msgid "Options from master: "
+#~ msgstr "Options sur le blog maître : "
+
+#~ msgid "Transfer all the values from the master blog"
+#~ msgstr "Transférer toutes les valeurs depuis le blog maître"
+
+#~ msgid "Options to modify: "
+#~ msgstr "Options à modifier : "
+
+#~ msgid "This option field don’t exist yet"
+#~ msgstr "Cette entrée d’option n’existe pas encore"
+
+#~ msgid "Change the value of the field “%1$s” from the master blog"
+#~ msgstr "Modifier la valeur du champ « %1$s » depuis le blog maître"
+
+#~ msgid "The current blog is consistent with the blog master."
+#~ msgstr "Le blog courant est conforme au blog maître."
+
+#~ msgid "Transfert"
+#~ msgstr "Transfert"
+
+#~ msgid "Options actually set: "
+#~ msgstr "Options actuellement enregistrées : "
+
+#~ msgid "Blog Address"
+#~ msgstr "Coordonnées des Blogs"
+
+#~ msgid "Result"
+#~ msgstr "Résultat"
+
+#~ msgid "Conform"
+#~ msgstr "Conforme"
+
+#~ msgid "For more go to: "
+#~ msgstr "Allez à : "
